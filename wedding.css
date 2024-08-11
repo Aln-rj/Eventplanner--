@@ -1,0 +1,517 @@
+*{
+    margin: 0px;
+    scroll-behavior: smooth;
+}
+h1{
+    color:  thistle;
+   
+    margin-top: 5px;
+    padding: 20PX;
+    border-radius: 15PX;
+    
+    margin-left: 590px;
+}
+
+
+
+button{
+      width: 200px;
+      height: 50px;
+      font-weight: 700;
+      background-color: gray;
+      border-radius: 10px;
+      margin-top: 700px;
+      margin-left: 670px;
+      border: 3px solid gray;
+     
+}
+.row{
+    gap: 10px;
+    background-image: url(images/unni1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -150px;
+    height: 800px;
+}
+.row1{
+    background-image: url(images/dest1.png);
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  
+}
+h2{
+    color: white;
+}
+#image1{
+    margin-left: 30px;
+   
+}
+#image2{
+    margin-left: 550px;
+    margin-top: -320px;
+   
+}
+#image3{
+    margin-left: 1150px;
+  
+    
+}
+.img1{
+    height: 400px;
+    width: 280px;
+    margin-top: 40px;
+}
+.img5{
+    height: 400px;
+    width: 280px;
+    margin-top: -450px;
+    
+}
+.img6{
+    height: 400px;
+    width: 320px;
+    margin-top: -410px;
+}
+.head1{
+    margin-left: 80px;
+    font-size: 20px;
+  text-decoration: underline beige;
+    margin-top: 40px;
+    color: white;
+   
+}
+
+
+
+.head2{
+    margin-left: 630px;
+    font-size: 20px;
+    text-decoration: underline beige;
+    margin-top: 40px;
+    
+    color: white;
+}
+
+.head3{
+    margin-left: 1220px;
+    font-size: 20px;
+    text-decoration: underline beige;
+    margin-top: 40px;
+    color: white;
+}
+
+.row2{
+    background-image: url(images/kerala1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1800px;
+    margin-top: 20px;
+    text-decoration: none;
+   
+
+}
+#type a{
+    text-decoration: none;
+}
+#opt{
+    background-color: green;
+    margin-top: -300px;
+    width: 50px;
+    height: 20px;
+    border-radius: 10px;
+    margin-left: -60px;
+}
+
+#items
+{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 10px 20px;
+   
+   
+}
+.item{
+    margin: 10px;
+    width: 90%;
+    height: 40px;
+}
+
+#items1
+{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 450px 20px;
+   
+   
+   
+}
+.item1{
+    margin: 10px;
+    width: 90%;
+    height: 40px;
+   
+}
+
+#items2
+{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 450px 20px;
+   
+   
+   
+}
+.item2{
+    margin: 10px;
+    width: 90%;
+    height: 40px;
+}
+
+.img7{
+    width: 100%;
+    height: 350px;
+   margin-top: 175px;
+}
+.item1 a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+
+}
+.item2 a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+
+}
+.item a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+
+}
+.row3{
+    background-color: thistle;
+    height: 750px;
+    background-image: url(images/dreams.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row3 h5{
+    color: goldenrod;
+    margin-left: -20px;
+}
+.star{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: 600;
+    color: black;
+    line-height: 2.5;
+   
+}
+.temple{
+    margin-left: 600px;
+    margin-top: -455px;
+    font-weight: 600;
+    line-height: 2.5;
+   
+}
+.dest{
+    margin-left: 1150px;
+    margin-top: -455px;
+    font-weight: 600;
+    line-height: 2.5;
+   
+}
+#loc{
+    border: 2px solid black;
+    width: 400px;
+    height: 50PX;
+    margin-left: 550px;
+    border-radius: 15px;
+}
+LABEL{
+    color: black;
+    font-weight: 700;
+    margin-left: 550px;
+   
+}
+.row4{
+    background-image: url(images/jaya.png);background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    margin-top: 20px;
+    color: white;
+   
+}
+.row4 h2{
+    color: darkgoldenrod;
+    text-decoration: underline;
+    font-size: 40px;
+    margin-top: 20px;
+}
+h5{
+    font-size: 30px;
+}
+.shops{
+    margin-left: 20px;
+    line-height: 35px;
+    list-style: none;text-decoration: solid;
+    font-weight: 600;
+    margin-top: 10px;
+    
+}
+h5{
+    color: beige;
+    padding: 20px;
+}
+
+.shops1{
+    margin-left: 590px;
+    margin-top: -700px;
+    line-height: 33.5px;
+    list-style: none;text-decoration: solid;
+    color: white;
+    font-weight: 600;
+    
+    
+}
+.shops1 a{
+    text-decoration: none;
+    color: white;
+}
+.shops2{
+    margin-left: 1200px;
+    margin-top: -700px;
+    line-height: 33.5px;
+    list-style: none;
+ 
+    font-weight: 600;
+    
+    
+}
+.shops2 a{
+    text-decoration: none;
+    color: white;
+}
+
+.shops a{
+    text-decoration: none;
+    color: white;
+}
+.row5{
+background-image: url(images/bridal-makeup.png);
+background-repeat: no-repeat;
+background-size: cover;
+height: 750px;
+}
+.row5 h2{
+    color: darksalmon;
+    text-decoration: underline;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.shops3{
+    margin-left: 30px;
+   
+    
+}
+.shops3 h5{
+    color: brown;
+    margin-left: -20px;
+}
+.shops3 a{
+    text-decoration: none;
+    color: black;
+    line-height: 2.2;
+    font-weight: 600;
+    list-style: none;
+}
+.shops4{
+    margin-left: 420px;
+    margin-top: -420px;
+}
+.shops4 h5{
+    color: brown;
+    margin-left: -20px;
+}
+.shops4 a{
+    text-decoration: none;
+    color: white;
+    line-height: 2.2;
+    font-weight: 600;
+    list-style: none;
+}
+.welcome{
+    color: brown;
+    font-size: 30px;
+    margin-top: -400px;
+    margin-left: 740px;
+   
+}
+.airbus{
+    color: brown;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 740px;
+   
+}
+.drivers{
+    color: brown;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 740px;
+   
+}
+.row6{
+    background-image: url(images/decor.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    margin-top: 20px;
+}
+#catering{
+    list-style: none;
+    text-decoration: none;
+    margin-left: 110px;
+    margin-top: 50px;
+    line-height: 1.2;
+}
+.OTHERS{
+    color: brown;
+    margin-left: 730px;
+    margin-top: -420px;
+}
+.other li{
+    list-style: none;
+    font-weight: 600;
+    margin-left: 750px;
+    margin-top: -0px;
+    color: black;
+    line-height: 2.2;
+}
+#catering a{
+   color: white;
+   font-weight: 600;
+   text-decoration: none;
+   margin-left: 80px;
+   font-size: 20PX;
+   margin-top: 100px;
+}
+
+#decor{
+    margin-left: 700px;
+    margin-top: -710px;
+    line-height: 2.3;
+}
+#decor a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 70px;
+}
+
+.row7{
+    background-image: url(images/dreams.png);
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.row7 li{
+    list-style: none;
+    line-height: 2;
+    color: white;
+    margin-left: 30px;
+    
+}
+.row7 h3{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 30px;
+    color: white;
+
+}
+
+.ch{
+    margin-left: 500px;
+    margin-top: -670px;
+    color: white;
+    line-height: 1.9;
+}
+
+.chh{
+    margin-left: 1100px;
+    margin-top: -740px;
+    color: white;
+    line-height: 1.9; 
+    text-decoration: none;
+}
+.chh a{text-decoration: none;}
+
+
+footer{
+    height: 100px;
+    display: flex;
+    background-color: thistle;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    
+}
+.icon{
+    width: 30px;
+    
+ 
+ 
+}
+.row8{
+    height: 750px;
+    background-image: url(images/muslim\ weds.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+.row8 h3{
+    color: white;
+    font-size: 30px;
+    margin-left: 40px;
+
+}
+.chr1{
+    list-style: none;
+    color: white;
+    line-height: 2;margin-left: 30px;
+}
+
+.ch1{
+    margin-left: 500px;
+    margin-top: -670px;
+    color: white;
+    line-height: 1.9;
+}
+
+.chh1{
+    margin-left: 1100px;
+    margin-top: -710px;
+  
+    list-style: none;
+
+    line-height: 1.9; 
+    text-decoration: none;
+}
+.chh1 a{text-decoration: none;
+color: white;}
+
+.uparrow{
+    float: right;
+    margin: -30px 30px 0px 70px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 20px;
+}

@@ -1,0 +1,221 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: lightpink;
+  height: 200px;
+
+}
+
+.listitems{
+    list-style: none;
+    margin-right: 10px;
+    display: inline-block;
+    margin-top: 60px;
+    width: 80px;
+   
+    
+
+}
+.links{
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+    display: inline;
+    margin-top: 100px;
+    width: 20px;
+}
+.links:hover{
+    color: teal;
+    text-decoration: underline;
+}
+.row1{height: 20px;}
+#username1{
+    margin-left: 80px;
+    font-size: 50px;
+   font-family: "Satisfy", cursive;
+   color: teal;
+}
+#lname1{
+    color: deeppink;
+    font-family: "Satisfy", cursive;
+
+}
+   body{
+    background-color: beige;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+   }
+   img{
+      width: 200px;
+   }
+   h1{
+      font-family: "Satisfy", cursive;
+     margin-left: 100PX;
+     font-size: 50PX;
+
+   }
+   
+  li:hover{
+      color: teal;
+      text-decoration: underline;
+  }
+  .row1{
+    background-image: url(images/WEDDING_1234-transformed.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    margin-top: 10px;
+   
+
+  }
+  .HomeContents{
+    margin: 20px 0px 0px 4%;
+ 
+ }
+#username{
+   font-size: 50px;
+   font-family: "Satisfy", cursive;
+    margin-bottom: 20px;
+    margin-left: -0px;
+    color: teal;
+}
+#lname{
+    color: deeppink;
+    font-family: "Satisfy", cursive;
+}
+#userdetails{
+    line-height: 1.3;
+}
+#download{
+    background-color: teal;
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    display: inline-block;
+    width: 150px;
+}
+.homeimages{
+    width: 55%;
+    height: 75%;
+    position: absolute;
+    right: 30px;
+    bottom: 0px;
+    size: 70px;
+   margin-bottom: -200px; 
+}
+.group1{
+    position: absolute;
+    height: 100%;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: right 2s,left 2s;
+    width: 50%;
+    margin-top: 100PX;
+
+}
+.homeimages:hover #shape{
+    left: 70%;
+  
+   
+
+
+}
+.homeimages:hover #girl{
+    left: 40%;
+    
+}
+b{
+   font-family: "Satisfy", cursive;
+}
+#Event{
+    height: 700PX;
+    background-color: pink;
+}
+select{
+    margin-top: 100px;
+}
+#username2{
+    margin-left:30px;
+    color: white;
+}
+#Event a{
+   text-decoration: none;
+   color: white;
+   
+ line-height: 2;
+ border: 2px solid teal;
+ font-size: 30px;
+ margin-left: 30px;
+ background-color: teal;
+ border-radius: 10px;
+ padding: 6px;
+}
+.row3{
+    background-color: thistle;
+    padding: 20px;
+}
+
+#contact{
+    margin: 4% 8%;
+    
+}
+
+.sectionhead{
+    margin-left: 570px;
+}
+.iconcollection{
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    margin: 0px 25px;
+   /* border: solid;*/
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -10px;
+}
+.brands{
+    color: black;
+    font-size: 1.8rem;
+}
+
+.icon:hover .brands{
+    color: white;
+    /*animation*/
+    animation: rotate 3s;
+}
+@keyframes rotate{
+    0%{
+        transform: rotate(30deg);
+    }
+    20%{
+        transform: rotate(-30deg);
+    }
+    40%{
+        transform: rotate(30deg);
+    }
+    60%{
+        transform: rotate(-30deg);
+    }
+    8%{
+        transform: rotate(30deg);
+    }
+    100%{
+        transform: rotate(-30deg);
+    }
+}

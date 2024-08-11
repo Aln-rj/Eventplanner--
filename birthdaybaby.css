@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.row{
+    background-image: url(images/birthday.png);
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row h1{
+    text-align: center;
+    color: teal;
+}
+.row button{
+    margin-top: 60px;
+    margin-left: 640px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.row img{
+    height: 370px;
+ width: 300px;
+  margin-left: 580px;
+  margin-top: 120px;
+  
+}
+.row1{
+    background-image: url(images/decor.png);
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row1 h1{
+    color: white;
+    margin-left:-20px;
+}
+#cake{
+    color:white;
+    font-weight: 600;
+    list-style: none;
+    line-height: 1.8;
+    margin-left: 100px;
+  
+}
+
+#decor{
+    color:white;
+    font-weight: 600;
+    list-style: none;
+    line-height: 1.8;
+    margin-left: 700px; 
+    margin-top: -720px; 
+}
+
+#catering{
+    color:white;
+    font-weight: 600;
+    list-style: none;
+    line-height: 1.8;
+    margin-left: 1100px; 
+    margin-top: -720px;
+    
+}
+#catering a{
+    text-decoration: none;
+    color: white;
+    line-height: 2.2;
+}
+.uparrow{
+    float: right;
+    margin: -90px 30px 2px 70px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 20px;
+}
